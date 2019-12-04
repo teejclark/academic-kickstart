@@ -9,19 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Reseach"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "#teaching"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "publication/"
   weight = 40
+  
+[[main]]
+  name = "CV"
+  url = "/pdf/TJClark_CV_prof.pdf"
+  weight = 50
 
 [[main]]
   name = "Contact"
