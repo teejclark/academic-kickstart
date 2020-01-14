@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Reseach"
+  name = "Research"
   url = "#projects"
   weight = 20
 
@@ -20,9 +20,9 @@
 
 [[main]]
   name = "Publications"
-  url = "publication/"
+  url = "#publications"
   weight = 40
-  
+
 [[main]]
   name = "CV"
   url = "/pdf/TJClark_CV_prof.pdf"

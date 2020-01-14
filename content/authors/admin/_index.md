@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-T.J. Clark is a Ph.D. candidate in the Wildlife Biology Program at the University of Montana. I'm broadly interested in population, community, and conservation ecology, with a focus on developing quanitative methods to conserve and manage wildlife. 
+Hello! I'm a Ph.D. candidate in the Wildlife Biology Program at the University of Montana. I'm broadly interested in population, community, and conservation ecology, with a focus on developing quanitative methods to conserve and manage wildlife. 
