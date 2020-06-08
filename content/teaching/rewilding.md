@@ -43,3 +43,5 @@ url_code = ""
 
 **Course overview:**
 Human-induced global change is causing staggering losses in biodiversity, including defaunation, the extirpation of animal species from ecological communities. Loss of animal species can reduce the stability of nature, leading to negative cascading effects on other memebers of communities including mankind. Despite this continued loss, substantial progress is being made with efforts to improve the conservation status of threatened species and to restore ecosystem functions and processes facilitated by extinct species. The main goal of this course is to understand and critically dissect the efforts underway to rewild animal populations. We will tackle the ecological, biological, social, and ethical themes underpinning conservation actions like re-introduction, assisted colonization/migration, ecological replacement, Pleistocene rewilding, and gene drives. We will also read and hear from conservation scientists and students carrying out these actions throughout North America and the world.
+
+I taught this 3 credit course in Spring 2020, focusing on adapting active-learning strategies for conservation biology pedagogy.

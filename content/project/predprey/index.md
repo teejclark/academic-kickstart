@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Large mammal predator-prey dynamics"
+title = "Large Mammal Predator-prey Dynamics"
 
 # Date this page was created.
 date = 2019-01-06T00:00:00
@@ -31,14 +31,14 @@ url_code = ""
 
 
 # Featured image
-# To use, add an image named `featured.jpg` to your project's folder
+# To use, add an image named `featured.png` to your project's folder
 [image]
   # Caption (optional)
-  #caption = "Photo by rawpixel on Unsplash"
+  caption = "Photo by Dan Stahler, Yellowstone National Park"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-The study of predator-prey population dynamics is dominated by simplified mathematical models that focus on the relationship between a single predator and prey, exemplified by the Isle Royale wolf-moose system. However, few systems are this simple in nature. Most assemblages contain multiple predator and multiple prey species, and their inclusion may spur novel and complex predator-prey interactions. I use mathematical models to represent multi-predator/prey population dynamics to understand what drives populations of large mammals and how to better manage them in the Rocky Mountain West.
+The study of predator-prey population dynamics is dominated by simplified mathematical models that focus on the relationship between a single predator and prey, exemplified by the Isle Royale wolf-moose system. However, few systems are this simple in nature. Most assemblages contain multiple predator and prey species, and their inclusion may spur novel and complex predator-prey interactions. I am building multi-species integrated population models to better understand what drives populations of large mammals and how to better manage them in the Rocky Mountains.

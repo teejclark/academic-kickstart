@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Seabird conservation and management"
+title = "Biodiversity Conservation"
 
 # Date this page was created.
 date = 2019-01-05T00:00:00
 
 # Project summary to display on homepage.
-summary = "Monitoring seabirds to better identify their population drivers"
+summary = "Identifying the patterns and processes that drive biodiversity in coupled human-natural systems"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["seabird"]
+tags = ["biodiv"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,14 +31,14 @@ url_code = ""
 
 
 # Featured image
-# To use, add an image named `featured.jpg` to your project's folder
+# To use, add an image named `featured.png` to your project's folder
 [image]
   # Caption (optional)
-  #caption = "Photo by rawpixel on Unsplash"
+  caption = "Collecting fox fecal samples to monitor impacts on native fauna."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Animal populations are often in flux, especially due to anthropogenic effects. However it is often difficult to survey animals to understand these changes. This is especially so in pelagic seabird populations, such as the burrow-nesting sooty shearwater Ardenna grisea, which is declining worldwide but thriving in the Falkland Islands. For my Masters, I built habitat selection models generalized using functional responses to estimate the density, occupancy, and population size of this cryptic species. I also found that sooty shearwater populations likely grew due to the cessation of historical exploitation of their native habitat, tussac grass Poa flabellata.
+In the Anthropocene, humans are transforming and destabilizing ecosystems, which can severely impact biodiversity. In response, humans have employed increasingly controversial management practices (e.g., assisted migration, gene drives) in an attempt to mitigate human impacts. I am interested in understanding the patterns and processes of humans' effects on wildlife and biodiversity - especially in extension to coupled human-natural systems. I am currently developing quantitative tools to help understand and more optimately manage biodiversity.

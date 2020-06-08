@@ -18,18 +18,18 @@ organizations:
   url: "https://www.cfc.umt.edu/wbio/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: T.J. Clark is a Ph.D. student in the Wildlife Biology Program at the University of Montana.
+bio: T.J. Clark is a Ph.D. candidate in the Wildlife Biology Program at the University of Montana.
 
 interests:
-- Population Ecology
-- Mathematical Ecology
+- Theoretical Ecology
 - Conservation Biology
+- Coupled Human-Natural Systems
 
 education:
   courses:
   - course: PhD in Wildlife Biology
     institution: University of Montana
-    year: 2017-current
+    year: 2017-2021 (expected completion)
   - course: MRes in Ecology and Environmental Biology
     institution: University of Glasgow
     year: 2017
@@ -43,6 +43,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:tyler3.clark@umontana.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/teejclark1873
@@ -52,6 +55,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Cb0-lDQAAAAJ
+- icon: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,4 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! I'm a Ph.D. candidate in the Wildlife Biology Program at the University of Montana. I'm broadly interested in population, community, and conservation ecology, with a focus on developing quanitative methods to conserve and manage wildlife. 
+Hello! My name is T.J. Clark, and I'm a Ph.D. candidate in the Wildlife Biology Program at the University of Montana. I am developing quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
+
+
+

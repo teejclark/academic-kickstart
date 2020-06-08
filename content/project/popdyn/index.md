@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Theoretical population ecology"
+title = "Theoretical Population Ecology"
 
 # Date this page was created.
 date = 2019-01-06T00:00:00
@@ -31,7 +31,7 @@ url_code = ""
 
 
 # Featured image
-# To use, add an image named `featured.jpg` to your project's folder
+# To use, add an image named `featured.png` to your project's folder
 [image]
   # Caption (optional)
   #caption = "Photo by rawpixel on Unsplash"
@@ -41,6 +41,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Classically, animal population dynamics are assumed to be linear, low-dimensional, and at an equilibrial stable state, and therefore modeled as such. I am building theoretical population models to understand the nature of animal population dynamics. Some lines of inquiry include: how ubiquitous are nonlinear dynamics in nature?; are populations ruled by transient or equilibrium-based dynamics? how predictable are animal population dynamics?; and what are the implications of these questions for management and conservation?
+Classically, animal population dynamics are assumed to be linear, low-dimensional, and at an equilibrial stable state, and therefore modeled as such. I am building theoretical population models to understand the nature of animal population dynamics. Some lines of inquiry include: how ubiquitous are nonlinear dynamics in nature? Are populations ruled by transient or equilibrium-based dynamics? How predictable are animal population dynamics? What are the implications of these questions for management and conservation?
 
 
