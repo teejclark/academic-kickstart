@@ -39,7 +39,7 @@ projects = ["popdyn"]
 # Links (optional).
 url_pdf = "pdf/ClarkLuis_2019_NatureEE.pdf"
 url_code = "https://github.com/teejclark/Ubiquitous_Nonlinearity"
-url_perspective = "pdf/Dakos_2019.pdf"
+#url_slides = "pdf/Dakos_2019.pdf"
 
 
 # Featured image
