@@ -19,7 +19,7 @@ authors = ["**T.J. Clark**", "Angela D. Luis", "Mark Hebblewhite", "Jon S. Horne
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Oikos [in revision]*"
+publication = "*Oikos*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -37,7 +37,7 @@ selected = true
 projects = ["popdyn"]
 
 # Links (optional).
-#url_pdf = "pdf/ClarkLuis_2019_NatureEE.pdf"
+#url_pdf = "pdf/Clarketal_2020_Oikos.pdf"
 
 
 
