@@ -22,7 +22,7 @@ publication_types = ["3"]
 publication = "*Oikos*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Understanding how predators affect prey populations is a fundamental goal for ecolo- gists and wildlife managers. A well-known example of regulation by predators is the predator pit, where two alternative stable states exist and prey can be held at a low density equilibrium by predation if they are unable to pass the threshold needed to attain a high density equilibrium. While empirical evidence for predator pits exists, deterministic models of predator–prey dynamics with realistic parameters suggest they should not occur in these systems. Because stochasticity can fundamentally change the dynamics of deterministic models, we investigated if incorporating stochastic- ity in predation rates would change the dynamics of deterministic models and allow predator pits to emerge. Based on realistic parameters from an elk–wolf system, we found predator pits were predicted only when stochasticity was included in the model. Predator pits emerged in systems with highly stochastic predation and high carrying capacities, but as carrying capacity decreased, low density equilibria with a high likeli- hood of extinction became more prevalent. We found that incorporating stochasticity is essential to fully understand alternative stable states in ecological systems, and due to the interaction between top–down and bottom–up effects on prey populations, habitat management and predator control could help prey to be resilient to predation stochasticity."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,7 +37,8 @@ selected = true
 projects = ["popdyn"]
 
 # Links (optional).
-#url_pdf = "pdf/Clarketal_2020_Oikos.pdf"
+url_pdf = "pdf/Clarketal_2020_Oikos.pdf"
+url_code = "https://github.com/teejclark/Predator_Pit"
 
 
 
