@@ -16,7 +16,7 @@ authors = ["**T.J. Clark**", "Bugge Vick", "Jason Newton", "Ilaria Marengo", "Ew
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Conservation Letters*"
