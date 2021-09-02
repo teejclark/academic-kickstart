@@ -2,7 +2,7 @@
 title = "A wolf in fox's clothing? Using stable isotopes to quantify ecological replacement"
 
 # Date first published.
-date = "2021-12-01"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**T.J. Clark**", "Bugge Vick", "Jason Newton", "Ilaria Marengo", "Ewan D. Wakefield"]

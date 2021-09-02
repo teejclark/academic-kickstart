@@ -2,7 +2,7 @@
 title = "Combining survey and remotely sensed environmental data to estimate the habitat associations, abundance and distribution of breeding thin-billed prions Pachyptila belcheri and Wilson's storm-petrels Oceanites oceanicus on a South Atlantic tussac island"
 
 # Date first published.
-date = "2021-12-01"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Allan W. Stokes", "Paulo Catry", "Jason Matthiopoulos", "Megan Boldenow","**T.J. Clark**", "Amy Guest", "Ilaria Marengo", "Ewan D. Wakefield"]

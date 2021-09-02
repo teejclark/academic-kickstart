@@ -2,7 +2,7 @@
 title = "Evaluating unintended consequences of intentional species introductions and eradications for improved conservation management"
 
 # Date first published.
-date = "2021-12-21"
+date = "2021-01-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dean E. Pearson","**T.J. Clark**", "Phil G Hahn"]
