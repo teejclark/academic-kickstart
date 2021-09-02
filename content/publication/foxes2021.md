@@ -38,7 +38,7 @@ projects = ["pred-prey"]
 
 # Links (optional).
 url_pdf = "pdf/Clarketal2021_ConLett.pdf"
-#url_code = "https://github.com/teejclark/Predator_Control"
+url_code = "https://github.com/teejclark/Ecological_Replacement"
 
 
 # Featured image
