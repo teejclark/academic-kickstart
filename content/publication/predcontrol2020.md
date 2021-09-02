@@ -37,7 +37,7 @@ selected = true
 projects = ["pred-prey"]
 
 # Links (optional).
-#url_pdf = "pdf/ClarkHebblewhite_2020_JAE.pdf"
+url_pdf = "pdf/ClarkHebblewhite_2020_JAE.pdf"
 url_code = "https://github.com/teejclark/Predator_Control"
 
 
