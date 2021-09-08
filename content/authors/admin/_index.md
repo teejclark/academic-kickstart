@@ -10,18 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Wildlife Biology
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: University of Montana
-  url: "https://www.cfc.umt.edu/wbio/"
+- name: Center for Ecosystem Sentinels
+  url: "https://ecosystemsentinels.org/"
+- name: University of Washington
+  url: "https://www.biology.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: T.J. Clark is a Ph.D. candidate in the Wildlife Biology Program at the University of Montana.
+bio: T.J. Clark is a Postdoctoral Scholar at the University of Washington.
 
 interests:
-- Theoretical Ecology
+- Quantitative Ecology
 - Conservation Biology
 - Coupled Human-Natural Systems
 
@@ -29,7 +31,7 @@ education:
   courses:
   - course: PhD in Wildlife Biology
     institution: University of Montana
-    year: 2017-2021 (expected completion)
+    year: 2021
   - course: MRes in Ecology and Environmental Biology
     institution: University of Glasgow
     year: 2017
@@ -45,7 +47,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: "mailto:tyler3.clark@umontana.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:tjclark1873@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/teejclark1873
@@ -73,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is T.J. Clark, and I'm a Ph.D. candidate in the Wildlife Biology Program at the University of Montana. I am developing quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
+Hello! My name is T.J. Clark, and I'm a Postdoctoral Scholar with the Center for Ecosystem Sentinels at the University of Washington. I develop quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
 
 
 

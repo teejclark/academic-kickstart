@@ -85,16 +85,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tyler3.clark@umontana.edu"
+email = "tjclark1873@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "32 Campus Drive", city = "Missoula", region = "MT", postcode = "59812", country = "United States", country_code = "US"}
+address = {street = "W Stevens Way NE", city = "Seattle", region = "WA", postcode = "98195", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "47.653112268559056", longitude = "-122.30996083182357"}
 
 # Directions for visitors to locate you.
 directions = ""
