@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: UW Data Science Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is T.J. Clark, and I'm a Postdoctoral Scholar with the Center for Ecosystem Sentinels at the University of Washington. I develop quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
+Hello! My name is T.J. Clark, and I'm a UW Data Science Postdoctoral Fellow with the Center for Ecosystem Sentinels at the University of Washington. I develop quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
 
 
 
