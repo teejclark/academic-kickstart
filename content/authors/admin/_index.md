@@ -14,10 +14,10 @@ role: UW Data Science Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Ecosystem Sentinels
-  url: "https://ecosystemsentinels.org/"
 - name: eScience Institute
   url: "https://escience.washington.edu/"
+- name: Center for Ecosystem Sentinels
+  url: "https://ecosystemsentinels.org/"
 - name: University of Washington
   url: "https://www.biology.washington.edu/"
 
@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! My name is T.J. Clark, and I'm a UW Data Science Postdoctoral Fellow with the Center for Ecosystem Sentinels and eScience Institute at the University of Washington. I develop quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching and communicating on the conservation of nature in the Anthropocene.
+Hello! My name is T.J. Clark, and I'm a Data Science Postdoctoral Fellow with the eScience Institute and the Center for Ecosystem Sentinels at the University of Washington. I develop quantitative methods to conserve wildlife and biodiversity in an increasingly changing world. I am also passionate about teaching about the conservation of nature in the Anthropocene.
 
 
 
